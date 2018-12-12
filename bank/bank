@@ -1,0 +1,5 @@
+"insert into member value(?,?,?,?)"
+"update member set tel = ?, where id = ?"
+"select * from member where id = ?"
+"select * from member"
+"delete * from member where id = ?"
